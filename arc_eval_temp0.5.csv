@@ -1,0 +1,101 @@
+question_id,question,correct,llama3-1b-spamgen,llama3.2:3b,llama3.2:1b,correct_llama3-1b-spamgen,correct_llama3.2:3b,correct_llama3.2:1b
+0,George wants to warm his hands quickly by rubbing them. Which skin surface will produce the most heat?,A,D,B,B,False,False,False
+1,Which of the following statements best explains why magnets usually stick to a refrigerator door?,B,D,A,B,False,False,True
+2,A fold observed in layers of sedimentary rock most likely resulted from the,B,B,B,B,True,True,True
+3,Which of these do scientists offer as the most recent explanation as to why many plants and animals died out at the end of the Mesozoic era?,D,D,D,D,True,True,True
+4,A boat is acted on by a river current flowing north and by wind blowing on its sails. The boat travels northeast. In which direction is the wind most likely applying force to the sails of the boat?,B,B,B,B,True,True,True
+5,Which land form is the result of the constructive force of a glacier?,B,A,A,D,False,False,False
+6,Which statement best compares single-celled and multi-celled organisms?,C,C,A,A,True,False,False
+7,"As part of an experiment, an astronaut takes a scale to the Moon and weighs himself. The scale reads 31 pounds. If the astronaut has a mass of about 84 kilograms, which are the approximate weight and mass of the astronaut when standing on the Earth?",D,D,D,A,True,True,False
+8,Which of the following is a trait that a dog does NOT inherit from its parents?,C,C,C,D,True,True,False
+9,"Hatchling sea turtles are typically dark in color. Occasionally, a sea turtle hatches that is almost white in color. When crawling from the nest on the beach to the ocean, this light-colored sea turtle could be at risk for sunburn. The light color of the turtles would most likely",C,D,C,A,False,True,False
+10,"Photosynthesis is a process involving carbon dioxide, water, glucose, oxygen, and sunlight. Which is the correct chemical equation for photosynthesis?",D,B,A,B,False,False,False
+11,Which of the following is an example of a physical change?,B,D,D,D,False,False,False
+12,Which of the following areas is most likely to form metamorphic rocks such as gneiss and schist?,C,C,C,B,True,True,False
+13,The male insects in a population are treated to prevent sperm production. Would this reduce this insect population?,C,A,C,C,False,True,True
+14,"On Earth, water can be a solid, a liquid, or a gas. Which energy source has the greatest influence on the state of matter of water?",A,C,A,D,False,True,False
+15,A ship leaks a large amount of oil near a coastal area. Which statement describes how the oil most likely will affect the coastal habitat?,B,C,C,A,False,False,False
+16,A chemical property of a mineral is evident if the mineral,2,C,B,B,False,False,False
+17,"One evening as it is getting dark, Alex sits on the front porch and watches the sun slowly disappear behind the neighbor's house across the street. Which explains this observation?",D,D,D,A,True,True,False
+18,A toothpaste commercial states that a brand of toothpaste has a higher concentration of fluoride than any other toothpaste available. The commercial is most likely inferring that the advertised toothpaste,C,B,C,A,False,True,False
+19,What do cells break down to produce energy?,A,A,A,A,True,True,True
+20,"Laura adds 50 mL of boiling water to 100 mL of ice water. If the 150 mL of water is then put into a freezer, at what temperature will the water freeze?",A,D,A,A,False,True,True
+21,A signal from the brain to a muscle in the arm is transmitted by which structures?,C,C,C,A,True,True,False
+22,The composition of soil influences the soil's ability to retain and transmit water and air. What soil type would be best for planting a productive garden?,B,B,B,B,True,True,True
+23,How many times does Earth rotate on its axis in one day?,A,C,A,B,False,True,False
+24,"Two students are asked to make a chart on the electromagnetic spectrum. Reading left to right, one student's chart shows the spectrum from gamma rays to radio waves, while the other student's chart shows the opposite. If the teacher says that both charts are correct, then",B,C,B,A,False,True,False
+25,Coal is solid rock that began as organic material that was deposited in a swamp. The formation of coal suggests that,D,D,D,D,True,True,True
+26,Stars are often classified by their apparent brightness in the nighttime sky. Stars can also be classified in many other ways. Which of these is least useful in classifying stars?,C,C,B,D,True,False,False
+27,Michael learned that the movement of Earth in the solar system causes changes that can be seen on the planet. Which change could be seen on Earth in the time it takes Earth to rotate once on its axis?,A,A,A,A,True,True,True
+28,Which of the following is an observation about grasshoppers that a science class could have made on their nature walk?,B,C,A,A,False,False,False
+29,What characteristic of DNA results in cell differentiation in developing embryos?,C,C,C,A,True,True,False
+30,"Heat, light, and sound are all different forms of ___.",B,D,B,B,False,True,True
+31,Which of following is a property shared by the elements in the carbon family?,D,C,C,D,False,False,True
+32,Which of these human activities does not contribute to the extinction of species?,C,C,C,C,True,True,True
+33,"Lactose intolerance is a condition of the digestive system in which an individual has an inability to digest lactose, the sugar found in milk. An individual affected with lactose intolerance does not produce enough of the enzyme lactase, which is needed to break down lactose. If more adults than children are diagnosed with lactose intolerance, what does this most likely suggest?",A,C,A,A,False,True,True
+34,Four materials are put into small containers. These materials are then moved from the small containers into larger containers. Which material will spread out to completely fill a larger container?,A,D,A,D,False,True,False
+35,Which celestial object listed below has the greatest density?,D,D,D,D,True,True,True
+36,"Rain forests contain more species of trees than any other biome. However, scientists have found that the soil of the forest floor is relatively nutrient poor. What could most likely account for this?",B,D,B,D,False,True,False
+37,Which of these is not an inherited trait in humans?,D,D,D,D,True,True,True
+38,Puddles on a sidewalk are evaporating quickly. What most likely causes the puddles to evaporate?,A,C,A,D,False,True,False
+39,An engineer measured the time it takes sound to travel through samples of different materials. All of the samples were identical in shape and size. The measurements were made using ultrasonic waves with a frequency of 5 megahertz. Which question was the engineer most likely trying to answer?,A,D,A,A,False,True,True
+40,All of the following contain metric units of measurement except,C,A,C,D,False,True,False
+41,How is a moth's life cycle most different from an insect that goes through incomplete metamorphosis?,A,D,C,B,False,False,False
+42,Where is the biological magnification of pollutants most likely to be the greatest?,A,D,A,A,False,True,True
+43,The gravitational force exerted by an object depends on its,C,C,C,C,True,True,True
+44,Trees most likely change the environment in which they are located by,D,A,B,B,False,False,False
+45,How long does it take for Earth to rotate on its axis seven times?,B,C,A,D,False,False,False
+46,Which planet has the longest planetary year?,D,C,D,C,False,True,False
+47,Which is a nonrenewable resource?,A,D,A,B,False,True,False
+48,"If a new moon occurred on June 2, when will the next new moon occur?",A,B,B,A,False,False,True
+49,"In living things, smaller substances are linked to make up larger substances. Which of the following correctly describes a larger substance made by linking smaller substances?",A,C,A,A,False,True,True
+50,Scientists who disagree with the results of an experiment should,D,D,D,C,True,True,False
+51,Rubbing sandpaper on a piece of wood produces what two types of energy?,B,D,B,B,False,True,True
+52,A student accidentally drops a test tube that breaks when it hits the floor. Which method is the best way to retrieve the broken glass?,C,D,C,A,False,True,False
+53,"A scientist put several different plants in a sealed container. Every hour, she checked the oxygen in the container to see if it changed. How did the oxygen in the container most likely change?",A,C,B,A,False,False,True
+54,"Based on their locations in the periodic table, which element has chemical properties most similar to those of calcium, Ca?",A,A,A,C,True,True,False
+55,Which conclusion is best supported by a tree-growth ring that is much narrower than the other growth rings?,B,B,B,A,True,True,False
+56,Which statement is an observation?,A,C,A,B,False,True,False
+57,Which would a scientist use in trying to model the cause of planetary years?,D,C,D,D,False,True,True
+58,Which of these would most likely improve the air quality in large Texas cities?,A,B,A,D,False,True,False
+59,Which term best describes the life cycle of an insect that reaches the adult stage without being a pupa?,A,A,A,A,True,True,True
+60,In which taxonomic group are organisms found that share the characteristic of storing hereditary material in a single loop of DNA?,A,C,A,D,False,True,False
+61,"Franklin wants to know how fast he runs different distances. He uses a stopwatch to measure the time it takes him to complete a 50-meter, 100-meter, and 200-meter race. How can he calculate his speed for each race?",B,A,B,B,False,True,True
+62,"Some animals are very rare. For example, there are very few Siberian tigers. If the only Siberian tigers left are female, what will most likely happen?",D,C,A,A,False,False,False
+63,Which of these is an example of liquid water?,C,B,B,B,False,False,False
+64,"Acid rain has a pH below 5.6. This rain can damage soil, lakes, crops, and buildings. Acid rain is caused by all of the following except",D,D,D,D,True,True,True
+65,"During most of the year, the air over Boston, Massachusetts, contains a high amount of moisture. Which of the following best explains why there is a high amount of moisture in the air?",A,C,A,D,False,True,False
+66,An astronomer is studying two stars that are the same distance from Earth. Star X appears brighter than star Y. Which statement best explains this observation?,A,C,A,A,False,True,True
+67,What adaptation is necessary in intertidal ecosystems but not in reef ecosystems?,C,C,C,C,True,True,True
+68,Why do areas in the middle of a large continent generally have more extreme differences in temperature than areas near the coastline?,D,D,A,A,True,False,False
+69,Two elements in the same group on the Periodic Table of the Elements are most similar in their,D,D,D,B,True,True,False
+70,"In the carbon cycle, carbon moves from reservoir to reservoir as various organic and inorganic processes occur on Earth. Only a small percentage of the global carbon is moved in this cycle each year. The remaining carbon is stored in these reservoirs. Which reservoir contains the greatest amount of stored carbon?",D,C,D,D,False,True,True
+71,"New engine technology has helped cars get more mileage per gallon of gas. Since gasoline comes from oil, this technology will affect the world supply of oil by",D,C,A,A,False,False,False
+72,Corn is widely being used in the United States to make ethanol for use in automobile fuel. How might the overproduction of corn negatively affect the environment?,A,D,A,D,False,True,False
+73,A company is designing a new laptop computer. The computer must not exceed a certain weight. Which of the following is the most likely reason to have a weight restriction for the computer?,C,D,C,B,False,True,False
+74,"The heart, blood vessels, kidneys, and bladder working together are best described as",D,D,D,D,True,True,True
+75,Which property of a mineral can be determined just by looking at it?,A,D,A,D,False,True,False
+76,Cells are the basic unit of structure and function in all living organisms. Which describes the greatest difference between the cells of a baby gorilla and the cells of an adult gorilla?,A,D,D,A,False,False,True
+77,Giant redwood trees change energy from one form to another. How is energy changed by the trees?,B,C,B,B,False,True,True
+78,"According to a pH scale, which pH would be the strongest acid?",A,B,A,B,False,True,False
+79,An old T-shirt can be ripped into smaller pieces and used as rags. An empty milk jug can be used to water houseplants. Both of these are examples of how,D,D,D,D,True,True,True
+80,An ice cube placed in sunlight melts quickly. Which BEST explains this event?,B,C,B,A,False,True,False
+81,"A ""widow's peak"" hairline in humans is coded by the dominant allele W. A straight hairline is coded by the recessive allele w. A man with a homozygous dominant WW produces a zygote with a woman with a heterozygous dominant Ww for the trait. Which allele combinations could occur in the zygote?",B,B,B,B,True,True,True
+82,Which of these is never found in prokaryotic cells?,D,D,D,D,True,True,True
+83,What do earthquakes tell scientists about the history of the planet?,B,C,B,C,False,True,False
+84,The source of energy for the Earth's water cycle is the,B,B,B,B,True,True,True
+85,Stars are organized into patterns called constellations. One constellation is named Leo. Which statement best explains why Leo appears in different areas of the sky throughout the year?,A,C,A,B,False,True,False
+86,"When a mirror is placed by a fish bowl with a beta fish swimming inside, the beta fish sees what appears to be another fish. This occurs because of",C,C,C,C,True,True,True
+87,Which geologic process most likely led to the uplifting of the Rocky Mountains?,C,C,A,C,True,False,True
+88,"After observing several dogs running, students ask the following question: Do dogs with long hair run faster than dogs with short hair? How can the students best answer their question?",B,B,B,B,True,True,True
+89,Which factor can increase the amount of sulfur dioxide in the air?,B,B,B,A,True,True,False
+90,Which statement describes a harmful effect of clearing rainforests for farmland?,B,D,B,B,False,True,True
+91,A flowing stream contains water at 18°C. Cans of soft drinks at 28°C are lowered into the stream. Which of the following will most likely occur?,B,D,A,A,False,False,False
+92,"In a food pyramid, which best explains why the number of organisms decreases from one trophic level to the next?",B,D,A,A,False,False,False
+93,"Students studying membranes conducted an experiment using labeled paper cups filled with varying concentrations of red food coloring. After the experiment, the cups were empty and stained. What should be done with used cups?",C,B,B,B,False,False,False
+94,"Many common hand tools create a mechanical advantage by using the basic principles found in simple machines. For example, a screwdriver uses the principles of the wheel and axle. In order to increase gripping force, pliers use the principle demonstrated in the",B,D,D,B,False,False,True
+95,Cellular respiration results in the production of adenosine triphosphate (ATP) molecules for energy. The most efficient form of cellular respiration would result in the production of ATP along with which substances?,D,A,D,D,False,True,True
+96,The following mathematical expressions represent four different concentrations of a chemical solution to be used in a science experiment. Which one is equal in magnitude to 1/1000?,C,B,C,D,False,True,False
+97,Data in tables may also be presented in graphs. Which type of data would best be displayed on a circle graph?,D,D,D,A,True,True,False
+98,A plant that grows red flowers was crossed with the same kind of plant that grows white flowers. Their offspring grew pink flowers. Which best explains why the offspring grew pink flowers?,C,C,C,A,True,True,False
+99,Why are alternative fuels being used in some automobiles?,B,D,B,D,False,True,False

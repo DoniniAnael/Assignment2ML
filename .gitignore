@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Environments
+.env/
+venv/
+ENV/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# ML outputs
+*.log
+logs/
+checkpoints/
+outputs/
+
+# Data artifacts
+*.pt
+*.pth
+*.bin
+*.npy
+*.npz
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE/Editor
+.vscode/
+llama3-1b-spamgen/llama3-1b.gguf
+llama3-1b-spamgen/llama3-1b.gguf
